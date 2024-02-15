@@ -43,3 +43,18 @@ body {
     button {
     margin: 10px;
     }
+
+
+    .image {
+        display: block;
+        margin: 0 auto;
+        width: 50%;
+        height: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        }
+    .description {
+        text-align: center;
+        color: #333;
+        margin-top: 20px;
+    }
