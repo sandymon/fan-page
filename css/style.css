@@ -21,40 +21,57 @@ body {
     margin: 0;
     padding: 0;
     }
-    h1 {
+h1 {
     text-align: center;
     color: #333;
     margin-top: 20px;
-    }
+}
    
-    ul {
+ul {
     text-align: center;
     color: #333;
     margin-top: 20px;
-    }
-    form {
+}
+form {
     text-align: center;
     color: #333;
     margin-top: 20px;
-    }
-    input {
+}
+input {
     margin: 10px;
-    }
-    button {
+}
+button {
     margin: 10px;
-    }
+}
 
 
-    .image {
-        display: block;
-        margin: 0 auto;
-        width: 50%;
-        height: auto;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        }
-    .description {
-        text-align: center;
-        color: #333;
-        margin-top: 20px;
-    }
+.image {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.description {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+#join {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+input {
+    margin: 10px;
+}
+button {
+    margin: 10px;
+}
+form {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
